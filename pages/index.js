@@ -1,5 +1,6 @@
 function Home() {
-    return <h1> Teste 2 3 4 </h1> 
+    return <h1> Minha primeira página Web utilizando GIT, Git Hub, next, node, react
+    </h1> 
 }
 
 export default Home;
