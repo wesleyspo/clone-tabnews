@@ -1,5 +1,5 @@
 import React from 'react';
-import '.dir/Home.css'; // Assumindo que você criará um arquivo CSS separado para estilizar a página
+import './Home.css'; // Assumindo que você criará um arquivo CSS separado para estilizar a página
 
 function Home() {
     return (
