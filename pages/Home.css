@@ -1,0 +1,34 @@
+.home-container {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.header h1 {
+    color: #4A90E2;
+}
+
+.main-content {
+    margin-top: 20px;
+}
+
+.photo-section .family-photo {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.message-section p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-top: 20px;
+}
+
+.footer {
+    margin-top: 40px;
+    font-style: italic;
+}
