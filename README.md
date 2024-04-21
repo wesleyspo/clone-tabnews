@@ -1,2 +1,3 @@
 # clone-tabnews
-Prática de programação Web. 
+
+Prática de programação Web.
